@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  edens-website:
+    build:
+      context: .
+      args:
+        NUXT_PORT: ${NUXT_PORT}
+        NUXT_HOST: ${NUXT_HOST}
+    container_name: "eden-website"
+    env_file: .env
+    ports:
+      - '3063:${NUXT_PORT}'
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules

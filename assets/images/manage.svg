@@ -1,0 +1,31 @@
+<svg width="79" height="79" viewBox="0 0 79 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4652_165777)">
+<g filter="url(#filter1_b_4652_165777)">
+<circle cx="45.39" cy="30.1574" r="27.4323" fill="#1BC1BF"/>
+<circle cx="45.39" cy="30.1574" r="26.1963" stroke="white" stroke-width="2.47218"/>
+</g>
+<path opacity="0.4" d="M46.4625 10.9883C56.4567 10.9883 64.5585 19.0901 64.5585 29.0843H46.4625V10.9883Z" fill="white"/>
+<path d="M44.3174 10.9883C34.3232 10.9883 26.2214 19.0901 26.2214 29.0843H44.3174V10.9883Z" fill="white"/>
+<path d="M46.4628 49.3267C56.4569 49.3267 64.5588 41.2248 64.5588 31.2306H46.4628V49.3267Z" fill="white"/>
+<path opacity="0.4" d="M44.3175 49.3267C34.3234 49.3267 26.2215 41.2248 26.2215 31.2306H44.3175V49.3267Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_4652_165777" x="0.652409" y="0.252922" width="77.9383" height="77.9384" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="4.94435" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_4652_165777"/>
+<feOffset dx="-5.76841" dy="9.06465"/>
+<feGaussianBlur stdDeviation="3.29623"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.105882 0 0 0 0 0.756863 0 0 0 0 0.74902 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4652_165777"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4652_165777" result="shape"/>
+</filter>
+<filter id="filter1_b_4652_165777" x="12.1892" y="-3.04331" width="66.4014" height="66.4016" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2.88421"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_4652_165777"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_4652_165777" result="shape"/>
+</filter>
+</defs>
+</svg>
